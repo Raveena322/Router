@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: #f4f6f9;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #0f172a;
+  padding: 15px 30px;
+}
+
+.navbar h2 {
+  color: white;
+}
+
+.navbar a {
+  color: #cbd5f5;
+  margin-left: 20px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  color: white;
+}
+
+/* Profile */
+.profile-container {
+  background: white;
+  width: 350px;
+  margin: 60px auto;
+  padding: 25px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.profile-img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.role {
+  color: #475569;
+  margin-top: 5px;
+}
+
+.bio {
+  font-size: 14px;
+  margin-top: 15px;
+  color: #334155;
+}
+
+/* Dashboard */
+.dashboard {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.skills span {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 18px;
+  background: #e0e7ff;
+  border-radius: 20px;
+  font-weight: 500;
+}

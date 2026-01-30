@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  background: #4f46e5;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.nav-links a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+/* Pages */
+.container {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.container h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.container p {
+  margin-bottom: 25px;
+  color: #555;
+}
+
+/* Buttons */
+.btn-group button {
+  margin: 8px;
+  padding: 10px 20px;
+  border: none;
+  background: #4f46e5;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-group button:hover {
+  opacity: 0.9;
+}
+/* Navbar links – better contrast */
+.nav-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: #e0e7ff;          /* soft off-white / light lavender */
+  font-weight: 500;
+}
+
+/* Icon color slightly different for depth */
+.nav-icon {
+  color: #c7d2fe;          /* lighter blue than text */
+  font-size: 15px;
+}
+
+/* Hover effect */
+.nav-links a:hover {
+  color: #ffffff;
+}
+
+.nav-links a:hover .nav-icon {
+  color: #ffffff;
+}
+.nav-links a {
+  margin-left: 20px;
+}
