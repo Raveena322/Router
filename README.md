@@ -34,8 +34,8 @@ All experiments focus on routing concepts such as:
 ### 🎯 Aim
 
 To implement routing between **Dashboard** and **Profile** components using React Router.
-<img src = "RouteExp2\public\Caro_1764425644364_1.png" alt = "page failed to load">
-<img src = "RouteExp2\public\Screenshot 2026-02-02 095459.png" alt = "page failed to load">
+<img src = "RouteExp2/public/Caro_1764425644364_1.png" alt = "page failed to load">
+<img src = "RouteExp2/public/Screenshot 2026-02-02 095459.png" alt = "page failed to load">
 
 
 ### 🛠 Software / Tools Required
@@ -77,7 +77,7 @@ Successful navigation between Dashboard and Profile without reloading the page.
 ### 🎯 Aim
 
 To create multiple pages using React Router for better page organization.
-<img src = "RouteExp3\public\Screenshot 2026-02-02 095552.png" alt = "page failed to load">
+<img src = "RouteExp3/public/Screenshot 2026-02-02 095552.png" alt = "page failed to load">
 
 ### 🛠 Software / Tools Required
 
@@ -118,7 +118,7 @@ Smooth multi-page navigation within a single-page application.
 ### 🎯 Aim
 
 To implement navigation using the **Link** component instead of anchor tags.
-<img src = "RouterExp\public\Screenshot 2026-02-02 095630.png" alt = "page failed to load">
+<img src = "RouterExp/public/Screenshot 2026-02-02 095630.png" alt = "page failed to load">
 
 ### 🛠 Software / Tools Required
 
